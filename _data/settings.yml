@@ -1,0 +1,326 @@
+---
+#-------------------------------
+# General Site Settings
+
+title: Samer Kharboush
+logo:
+author: Samer Kharboush
+description: DATA SCIENTIST AND ANALYST
+email: samer.elnady2@gmail.com
+phone: +39 3299 579 551
+address: via errico petrella 20, Milan, Italy
+copyright: Copyright &copy; 2023 Designed by [samer Kharboush](https://www.linkedin.com/in/samerelnady/)
+
+menu:
+  - { name: About, link: "/about" }
+  - { name: Blog, link: "/blog" }
+  - { name: Portfolio, link: "/portfolio" }
+  - { name: Contact, link: "/contact" }
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+google-analytics: # UA-XXXXXX-X
+
+#-------------------------------
+# Comment Section (Disqus)
+
+disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+
+#-------------------------------
+# Hero Section
+
+hero:
+  hero-title: Hi! I’m <br> Samer <br> data scientist and analyst
+
+social:
+  - { icon: "ti-facebook", link: "https://www.facebook.com/Samer.Elnady.New/" }
+  - { icon: "ti-github", link: "https://github.com/SamerKharboush/" }
+  - { icon: "ti-instagram", link: "https://www.instagram.com/samerkharboush/" }
+  - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/samerelnady/" }
+  - { icon: "ti-twitter", link: "https://twitter.com/SamerElnady/" }
+
+#-------------------------------
+# About (Section and Page)
+
+# About Section
+blurb: Google, IBM, Cisco and AWS certified Data Scientist with 3+ years of experience in data analysis and machine learning models building. Proficient in MATLAB, Python, Excel, Excel Dashboard, Google BigQuery, Power BI, Tablue and SQL. Possess theoretical and applied knowledge of statistical analysis and deep learning. Adept at analysing large data sets to identify trends and patterns to inform healthcare and business decisions. Also creating and building a series of machine learning and deep learning-based models.
+
+blurb-btn-link: "/about"
+blurb-btn-name: know more
+
+# About Page
+
+# Work Process Section
+work-process:
+  - title: "Research and Plan"
+    icon: "assets/images/icons/plan.png"
+    content: "This is the initial stage of any data analysis and machine learning project. In this stage, you need to understand the problem that you are trying to solve and the data that you have available to solve that problem. You also need to research and understand what methods and algorithms are suitable for solving the problem, as well as what kind of data preprocessing and feature engineering is needed."
+
+  - title: "Design and Develop"
+    icon: "assets/images/icons/design.png"
+    content: "In this stage, you will design and implement the solution based on the research and plan from the previous stage. You will need to implement the preprocessing and feature engineering techniques, as well as selecting and training a suitable machine learning model. You will also need to evaluate the model's performance and fine-tune it if necessary."
+
+  - title: "Deploy and visualization"
+    icon: "assets/images/icons/print.png"
+    content: "Once you have a working machine learning model, you will need to deploy it in a real-world setting. This could involve integrating the model into an application, dashboard, website, or any other platform. In this stage, you will also need to visualize the results of the model to provide meaningful insights to the users."
+
+# My Team Section
+#team:
+ # - title: "Jack Schenziwe"
+  #  image: "assets/images/team/member-1.png"
+  #  designation: "Project Manager"
+
+  #- title: "Julias Carlie"
+  #  image: "assets/images/team/member-2.png"
+  #  designation: "Web Developer"
+
+  #- title: "John Doe"
+  #  image: "assets/images/team/member-3.png"
+  #  designation: "Designer"
+
+#-------------------------------
+# Skills Section
+
+skills-title: Skills
+skills:
+  - { name: Data Analysis, color: "#fdb157", value: "95%" }
+  - { name: Machine Learning models, color: "#9473e6", value: "90%" }
+  - { name: Deep Learning models, color: "#bdecf6", value: "90%" }
+  - { name: Natural Language Processing, color: "#ffbcaa", value: "70%" }
+
+#-------------------------------
+# Exprerience Section
+
+experience-title: Experience
+experience:
+  - {
+      name: Data Analysis & Big Data,
+      icon: "icon-1.png",
+      date: "Jan 2019 - Feb 2020",
+      organization: "Upwork",
+    }
+  - {
+      name: Machine learning specialist,
+      icon: "icon-2.png",
+      date: "Feb 2020 - Feb 2021",
+      organization: "Luxury Items Incorporation",
+    }
+  - {
+      name: Data Science researcher,
+      icon: "icon-3.png",
+      date: "Feb 2021 - Present",
+      organization: "Fondazione Bruno Kessler - FBK",
+    }
+
+#-------------------------------
+# Education Section
+
+education-title: Education
+education:
+  - {
+      name: IBM Databases and SQL for Data Science with Python (with Honors),
+      date: "2023",
+      organization: "IBM",
+    }
+  - {
+      name: Data Science with Python,
+      date: "2023",
+      organization: "CISCO",
+    }
+  - {
+      name: Google Data Analytics Professional Certificate,
+      date: "2022",
+      organization: "Google Career Certificates",
+    }
+  - {
+      name:  The Elements of Data Science,
+      date: "2022",
+      organization: "Amazon Web Services (AWS)",
+    }
+  - {
+      name: Master degree of pharmaceutical biotechnology and precision medicine,
+      date: "2022",
+      organization: "Università degli studi di Milano",
+    }
+  - {
+      name: Bachelor of Clinical Pharmacy,
+      date: "2017",
+      organization: "Università degli studi di zagazig",
+    }
+
+#-------------------------------
+# Services Section
+
+services-title: Services
+services:
+  - {
+      name: Big Data Analysis,
+      icon: ti-dashboard,
+      description: "Data is a powerful tool that shapes our future. Data Science is the science of making use of data to drive decisions. Build predictive models to analyze massive volumes of data to make sense of it. Develop dashboards which are interactive and provide insight into what's happening within your system.",
+      active: ,# Add true to select section
+    }
+  - {
+      name: Machine Learning Models,
+      icon: ti-settings,
+      description: "Building ML models using strong background in statistical analysis, applied machine learning and data science. with proficient experience in scikit learn and pytorch, fastai and tensorflow building deep neural networks that can extract important insights from your big data by identifying trends and patterns.",
+      active: true, # Add true to select section
+    }
+  - {
+      name: Deep Learning Models,
+      icon: ti-panel,
+      description: "With experience in computer vision and machine learning models building, with proficiency in scikit learn, pytorch and fastai. Proficient in statistical analysis and deep learning. Adept at images and clinical images large data sets to identify trends, patterns and insights to inform healthcare and business decisions building predictive models.",
+      active: ,# Add true to select section
+    }
+
+#-------------------------------
+# Portfolio (Section and Page)
+# Portfolio Home Section
+portfolio-home-items:
+  - image: "assets/images/portfolio/item-13.jpg"
+    url: "#"
+
+  - image: "assets/images/portfolio/item-9.png"
+    url: "#"
+
+  - image: "assets/images/portfolio/item-10.png"
+    url: "#"
+
+  - image: "assets/images/portfolio/item-11.jpg"
+    url: "#"
+
+  - image: "assets/images/portfolio/item-12.png"
+    url: "#"
+
+# Portfolio Page
+portfolio-label:
+  - { title: "Data Analysis", type: "Analysis" }
+  - { title: "Machine Learning", type: "ML" }
+  - { title: "Deep Learning", type: "DL" }
+
+portfolio-items:
+  - image: "assets/images/portfolio/item-11.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "Analysis"
+      - type: "ML"
+
+  - image: "assets/images/portfolio/item-8.png"
+    url: "#"
+    portfolio-type:
+      - type: "ML"
+
+  - image: "assets/images/portfolio/item-1.png"
+    url: "#"
+    portfolio-type:
+      - type: "Analysis"
+
+  - image: "assets/images/portfolio/item-6.png"
+    url: "#"
+    portfolio-type:
+      - type: "Analysis"
+      - type: "DL"
+
+  - image: "assets/images/portfolio/item-9.png"
+    url: "#"
+    portfolio-type:
+      - type: "Analysis"
+
+  - image: "assets/images/portfolio/item-10.png"
+    url: "#"
+    portfolio-type:
+      - type: "DL"
+
+  - image: "assets/images/portfolio/item-12.png"
+    url: "#"
+    portfolio-type:
+      - type: "ML"
+
+  - image: "assets/images/portfolio/item-11.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "Analysis"
+      - type: "ML"
+      - type: "DL"
+
+  - image: "assets/images/portfolio/item-13.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "DL"
+
+#-------------------------------
+# Testimonials Section
+
+testimonial-items:
+  - name: "Jesica Gomez"
+    image: "assets/images/testimonial/client-1.png"
+    designation: "CEO, Funder"
+    content: "As a data analyst that wants to have a dashboard that collects data from various different sources and organizes them in a way that helps with the decision making process. They want their dashboard to help them analyze the data in real time and suggest new ways to collect more information.."
+
+  - name: "Beluxuria Logistics"
+    image: "assets/images/testimonial/member-2.png"
+    designation: "Sales department"
+    content: "Business owners using Data driven sales decsion that want to make better decisions on how to target different audiences. They want to use machine learning models to help them determine which marketing channels are most effective for their audience. They want to see the results of these models in an interactive data dashboard."
+
+#-------------------------------
+# Client Slider Section
+
+client-slider-items:
+  - logo: "assets/images/clients-logo/download.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/download (18).png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/download (2).png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/download (3).png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/download (4).png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/download (5).png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/download (19).png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/download (17).png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/download (21).png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/download (9).png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/download (10).png"
+    url: "#"
+  
+  - logo: "assets/images/clients-logo/download (11).png"
+    url: "#"
+  
+  - logo: "assets/images/clients-logo/download (12).png"
+    url: "#"
+  
+  - logo: "assets/images/clients-logo/download (13).png"
+    url: "#"
+  
+  - logo: "assets/images/clients-logo/download (14).png"
+    url: "#"
+  
+  - logo: "assets/images/clients-logo/download (15).png"
+    url: "#"
+
+#-------------------------------
+# Contact Section
+
+contact-title: Contact Info
+contact-email: samer.elnady2@gmail.com
