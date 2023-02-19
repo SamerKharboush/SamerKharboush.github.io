@@ -2,7 +2,7 @@
 layout: post
 title:  Antibiotic-DNA-resistant-sequence
 date:   2017-05-26 11:05:55 +0300
-image:  /assets/images/blog/resist.jpg
+image:  /assets/images/blog/resist.png
 author: Samer
 tags:   ML
 ---
