@@ -2,7 +2,7 @@
 layout: post
 title:  ECG Heartbeat Classification Model ML
 date:   2017-05-26 12:05:55 +0300
-image:  /assets/images/blog/ecg.jpg
+image:  /assets/images/blog/ecg.PNG
 author: Samer
 tags:   ML
 ---
