@@ -1,0 +1,43 @@
+---
+layout: post
+title:  Disease-diagnosing-Prediction
+date:   2017-05-26 10:05:55 +0300
+image:  /assets/images/blog/post-2.jpg
+author: Samer
+tags:   ML
+---
+Disease-diagnosing-Prediction
+using machine learning different alghorithms to predict disease. Currently this app is deployed in a Tkinter App, and provides 3 different high accurate clinical diagnosis based on 3 different machine learning alghorithms to generate a clinical decision helping layer.
+
+For more projects visit my website
+https://www.samerkharboush.tk/
+
+play the demo video to explain the project
+Click on image to play 👇
+
+Clinical Disease diagnosing App | Web App Demo (Flask)
+
+Want to run this project in your computer
+Follow these Steps
+Clone or Download
+
+Open the terminal/DDP in project directory
+
+Then create virtual environment using this command:
+
+py -m venv env
+
+Activate virtual environment using:
+
+env\Scripts\activate
+
+Install all the requirements using:
+
+pip install -r requirements.txt
+
+It will take some time to download till that take a sip of coffee ☕
+
+After successful download of all above requirements, run the app using:
+
+Tkinter run
+
