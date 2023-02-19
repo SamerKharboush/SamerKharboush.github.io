@@ -183,19 +183,19 @@ services:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/item-13.jpg"
-    url: "#"
+    url: "https://samerkharboush.github.io/2022/05/26/amazon-increase-income-1.5-million-copy-2/"
 
   - image: "assets/images/portfolio/item-9.png"
-    url: "#"
+    url: "https://samerkharboush.github.io/2022/11/19/amazon-increase-income-1.5-million-copy-4/"
 
   - image: "assets/images/portfolio/item-10.png"
-    url: "#"
+    url: "https://samerkharboush.github.io/2017/05/26/Disease-diagnosing-Prediction/"
 
   - image: "assets/images/portfolio/item-11.jpg"
-    url: "#"
+    url: "https://samerkharboush.github.io/2017/05/26/amazon-increase-income-1.5-million-copy-5/"
 
   - image: "assets/images/portfolio/item-12.png"
-    url: "#"
+    url: "https://samerkharboush.github.io/2022/09/26/amazon-increase-income-1.5-million-copy-3/"
 
 # Portfolio Page
 portfolio-label:
@@ -205,7 +205,7 @@ portfolio-label:
 
 portfolio-items:
   - image: "assets/images/portfolio/item-11.jpg"
-    url: "#"
+    url: "https://samerkharboush.github.io/2017/05/26/amazon-increase-income-1.5-million-copy-5/"
     portfolio-type:
       - type: "Analysis"
       - type: "ML"
@@ -227,29 +227,29 @@ portfolio-items:
       - type: "DL"
 
   - image: "assets/images/portfolio/item-9.png"
-    url: "#"
+    url: "https://samerkharboush.github.io/2022/11/19/amazon-increase-income-1.5-million-copy-4/"
     portfolio-type:
       - type: "Analysis"
 
   - image: "assets/images/portfolio/item-10.png"
-    url: "#"
+    url: "https://samerkharboush.github.io/2017/05/26/Disease-diagnosing-Prediction/"
     portfolio-type:
       - type: "DL"
 
   - image: "assets/images/portfolio/item-12.png"
-    url: "#"
+    url: "https://samerkharboush.github.io/2022/09/26/amazon-increase-income-1.5-million-copy-3/"
     portfolio-type:
       - type: "ML"
 
   - image: "assets/images/portfolio/item-11.jpg"
-    url: "#"
+    url: "https://samerkharboush.github.io/2017/05/26/amazon-increase-income-1.5-million-copy-5/"
     portfolio-type:
       - type: "Analysis"
       - type: "ML"
       - type: "DL"
 
   - image: "assets/images/portfolio/item-13.jpg"
-    url: "#"
+    url: "https://samerkharboush.github.io/2022/05/26/amazon-increase-income-1.5-million-copy-2/"
     portfolio-type:
       - type: "DL"
 
