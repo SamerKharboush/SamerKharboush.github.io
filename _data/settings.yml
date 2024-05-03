@@ -5,7 +5,7 @@
 title: Samer Kharboush
 logo:
 author: Samer Kharboush
-description: DATA SCIENTIST AND ANALYST
+description: Machine Learning Engineer II | Senior Python Developer | R&D Specialist in Software Development
 email: samer.elnady2@gmail.com
 phone: +39 3299 579 551
 address: via errico petrella 20, Milan, Italy
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Samer <br> data scientist and analyst
+  hero-title: Hi! I’m <br> Samer <br> Senior Machine Learning Engineer and Python Developer 
 
 social:
   - { icon: "ti-facebook", link: "https://www.facebook.com/Samer.Elnady.New/" }
@@ -49,7 +49,13 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Google, IBM, Cisco and AWS certified Data Scientist with 3+ years of experience in data analysis and machine learning models building. Proficient in MATLAB, Python, Excel, Excel Dashboard, Google BigQuery, Power BI, Tablue and SQL. Possess theoretical and applied knowledge of statistical analysis and deep learning. Adept at analysing large data sets to identify trends and patterns to inform healthcare and business decisions. Also creating and building a series of machine learning and deep learning-based models.
+blurb: Google, IBM, Cisco, and AWS certified Machine Learning Engineer with a 4-year proven track record, specializing in cutting-edge AI systems and advanced neural networks as part of the R&D Software Development team. 
+
+Experienced in developing and optimizing machine learning software and reinforcement learning models, leveraging Python and related technologies. Adept at spearheading the design, implementation, and optimization of innovative algorithms to solve complex challenges and drive technological advancements. 
+
+Possesses a robust foundation in statistics, forecasting, and data analysis. Proficient in Python, SQL, API REST, FAST API, and diverse databases, with hands-on experience in deploying and managing advanced business data science tools. 
+
+Skilled in data visualization tools such as Excel, Power BI, Tableau, Qlik, Apache Spark, Dockers, and SAS. Eager to apply extensive senior Python experience and expertise in machine learning engineering to contribute as a Senior Machine Learning Engineer in dynamic environments.
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -89,7 +95,7 @@ work-process:
 
 skills-title: Skills
 skills:
-  - { name: Data Analysis, color: "#fdb157", value: "95%" }
+  - { name: Deep Reinforcement Learning, color: "#fdb157", value: "95%" }
   - { name: Machine Learning models, color: "#9473e6", value: "90%" }
   - { name: Deep Learning models, color: "#bdecf6", value: "90%" }
   - { name: Natural Language Processing, color: "#ffbcaa", value: "70%" }
@@ -100,13 +106,13 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Data Analysis & Big Data,
+      name: HVAC, robotics & DDPG,
       icon: "icon-1.png",
       date: "Jan 2019 - Feb 2020",
       organization: "Upwork",
     }
   - {
-      name: Machine learning specialist,
+      name: Machine learning engineer,
       icon: "icon-2.png",
       date: "Feb 2020 - Feb 2021",
       organization: "Luxury Items Incorporation",
@@ -199,7 +205,7 @@ portfolio-home-items:
 
 # Portfolio Page
 portfolio-label:
-  - { title: "Data Analysis", type: "Analysis" }
+  - { title: "Deep reinforcement learning", type: "Analysis" }
   - { title: "Machine Learning", type: "ML" }
   - { title: "Deep Learning", type: "DL" }
 
@@ -323,4 +329,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: samer.elnady2@gmail.com
+contact-email: samer.kharboush@studenti.unimi.it
